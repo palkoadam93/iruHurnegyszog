@@ -1,0 +1,19 @@
+body {
+    background: #c0c0ff;
+    font-family: Courier, monospace;
+}
+
+div {
+    width: 960px;
+    margin: auto;
+    background: #fff8dc;
+}
+
+h2 {
+    background: #c0c0ff;
+}
+
+p {
+    margin: 5px;
+    padding: 5px;
+}
